@@ -59,12 +59,6 @@ public class ItemPickup : MonoBehaviour
                 {
                     playerMovement.moveSpeed += 0.5f; 
                 }
-
-                IAEnemy iaEnemy = target.GetComponent<IAEnemy>();
-                if (iaEnemy != null)
-                {
-                    iaEnemy.moveSpeed += 0.5f; 
-                }
                 break;
         }
 

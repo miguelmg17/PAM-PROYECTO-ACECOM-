@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7145136734444517191}
   - component: {fileID: -418675296856023892}
   m_Layer: 11
-  m_Name: EnemyTest
+  m_Name: EnemyFSM
   m_TagString: Bot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
