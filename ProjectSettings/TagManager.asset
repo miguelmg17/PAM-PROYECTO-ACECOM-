@@ -8,6 +8,8 @@ TagManager:
   - StageTag
   - Bot
   - Explosion
+  - PowerUp
+  - Bomb
   layers:
   - Default
   - TransparentFX
@@ -22,7 +24,7 @@ TagManager:
   - Bot
   - Enemy
   - Portal
-  - 
+  - PowerUpMask
   - 
   - 
   - 

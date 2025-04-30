@@ -21,7 +21,6 @@ public class Portal : MonoBehaviour
     private void Update()
     {
         numberEnemies = GameObject.FindGameObjectsWithTag("Bot").Length;
-        Debug.Log(numberEnemies);
 
         if (numberEnemies == 0 && !portal.activeSelf)
         {

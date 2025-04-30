@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 4574762242971112370}
   - component: {fileID: 2014555352059168482}
   - component: {fileID: -7719312542984026180}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: ItemPickUpSpeedIncrease
-  m_TagString: Untagged
+  m_TagString: PowerUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

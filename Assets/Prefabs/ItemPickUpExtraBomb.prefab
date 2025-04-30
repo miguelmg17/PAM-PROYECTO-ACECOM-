@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 2094288080163944574}
   - component: {fileID: 367790050834974575}
   - component: {fileID: -2125575302187215873}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: ItemPickUpExtraBomb
-  m_TagString: Untagged
+  m_TagString: PowerUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -161,8 +161,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1cf4c18b2142b54fab45593e0a07d03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointsCounter: 1
-  points: {fileID: 0}
   type: 0
   allowedTags:
   - Player
