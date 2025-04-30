@@ -8896,10 +8896,6 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: f9ff30dbc9a035c499c03d3df110e848, type: 2}
-    - target: {fileID: 0}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2002234811921723692, guid: 51fab12f2b1794749b92bd5d72a4d2ac, type: 3}
       propertyPath: m_BodyType
       value: 1
@@ -8918,7 +8914,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3074042467339112863, guid: 51fab12f2b1794749b92bd5d72a4d2ac, type: 3}
       propertyPath: m_Name
-      value: EnemyTest
+      value: EnemyFSM
       objectReference: {fileID: 0}
     - target: {fileID: 6353968757110401837, guid: 51fab12f2b1794749b92bd5d72a4d2ac, type: 3}
       propertyPath: cellSize
